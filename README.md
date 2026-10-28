@@ -66,8 +66,7 @@ Connected analysis results to Flutter and UniApp applications with player profil
 | :--- | :--- | :--- |
 | **Algorithm Director / 算法总监** | 深圳市投篮数科体育科技有限公司 | Sports vision, real-time systems, edge deployment |
 | **Algorithm Intern / 算法实习生** · 2024.06–2024.12 | Hikvision / 海康威视 | Depth estimation, semantic segmentation, Jetson deployment |
-| **Master's / 硕士** · 2023–2026 | Northeast Forestry University / 东北林业大学 | 农业工程与信息技术 · 计算机与人工智能学院 |
-| **Bachelor's / 本科** · 2019–2023 | 湖南信息学院 | 自动化 |
+| **Master's / 硕士** · 2023–2026 | Northeast Forestry University / 东北林业大学 | 计算机与人工智能学院 |
 
 ### Tools I work with · 技术栈
 
